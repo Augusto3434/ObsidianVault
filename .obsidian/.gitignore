@@ -1,0 +1,15 @@
+# Archivos de configuración de Obsidian
+.obsidian/workspace*
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/community-plugins.json
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Carpetas opcionales a excluir
+.trash/
+.git/
